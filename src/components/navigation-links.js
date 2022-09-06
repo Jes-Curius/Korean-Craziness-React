@@ -16,7 +16,7 @@ const NavigationLinks = (props) => {
 
 NavigationLinks.defaultProps = {
   text4: 'About Us',
-  text2: 'Dramas',
+  text2: 'K-Dramas',
   text3: 'Popular Dramas',
   rootClassName: '',
 }
